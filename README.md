@@ -1,4 +1,4 @@
-# Infinite Disc
+# Password Generator
 
 ## Description
 A password generator that gives you different options on how you want to build your password. You can opt to, or out, of these options to create the perfect password that embodies what you want.
