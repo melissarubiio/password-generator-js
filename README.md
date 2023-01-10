@@ -13,6 +13,6 @@ A password generator, module 03 of the University of Arizona bootcamp,that gives
 - On the click of generate password options like password length, symbols, numbers, upercase, and lowercase letters are asked.
 - Password is then generated in the box after all questions are answered.
 ## Link
-Completed generator found here https://melissarubiio.github.io/Password-Generator/
+Completed generator found here https://melissarubiio.github.io/password-generator-js/
 ## Mock-up 
 ![alt infinite-disc website](/images/generator.png)
